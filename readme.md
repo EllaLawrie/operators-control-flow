@@ -94,6 +94,6 @@
       - Bitwise right shift: (10>>2) = 2
       - Bitwise right shift with zero: (10>>>2) = 2
 
-3. Question 4
+3. Question 4.
 
    1, 8, 15
